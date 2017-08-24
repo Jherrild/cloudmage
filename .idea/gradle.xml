@@ -17,8 +17,10 @@
         <option name="useAutoImport" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/backend" />
+        <option name="gradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/current/bin/gradle" />
         <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>

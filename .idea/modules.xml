@@ -5,12 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/backend.iml" filepath="$PROJECT_DIR$/.idea/modules/backend.iml" group="backend" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/backend_main.iml" filepath="$PROJECT_DIR$/.idea/modules/backend_main.iml" group="backend" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/backend_test.iml" filepath="$PROJECT_DIR$/.idea/modules/backend_test.iml" group="backend" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudmage.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudmage.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudmage_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudmage_main.iml" group="cloudmage" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudmage_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudmage_test.iml" group="cloudmage" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/frontend.iml" filepath="$PROJECT_DIR$/.idea/modules/frontend.iml" group="frontend" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/frontend/frontend_main.iml" filepath="$PROJECT_DIR$/.idea/modules/frontend/frontend_main.iml" group="frontend" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/frontend/frontend_test.iml" filepath="$PROJECT_DIR$/.idea/modules/frontend/frontend_test.iml" group="frontend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1768460765/cloudmage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1768460765/cloudmage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1768460765/cloudmage_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1768460765/cloudmage_main.iml" group="cloudmage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1768460765/cloudmage_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1768460765/cloudmage_test.iml" group="cloudmage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-966018946/frontend.iml" filepath="$PROJECT_DIR$/.idea/modules/-966018946/frontend.iml" group="frontend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-966018946/frontend_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-966018946/frontend_main.iml" group="frontend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-966018946/frontend_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-966018946/frontend_test.iml" group="frontend" />
     </modules>
   </component>
 </project>
