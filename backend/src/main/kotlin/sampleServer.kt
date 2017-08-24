@@ -1,9 +1,9 @@
-import org.jetbrains.ktor.netty.*
-import org.jetbrains.ktor.routing.*
-import org.jetbrains.ktor.application.*
-import org.jetbrains.ktor.host.*
-import org.jetbrains.ktor.http.*
-import org.jetbrains.ktor.response.*
+import org.jetbrains.ktor.host.embeddedServer
+import org.jetbrains.ktor.http.ContentType
+import org.jetbrains.ktor.netty.Netty
+import org.jetbrains.ktor.response.respondText
+import org.jetbrains.ktor.routing.get
+import org.jetbrains.ktor.routing.routing
 
 /**
  * @author jestenh@gmail.com
@@ -18,5 +18,3 @@ fun main(args: Array<String>) {
         }
     }.start(wait = true)
 }
-
-data class Entry(val message: String)
